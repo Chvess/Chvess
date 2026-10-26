@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Luiz Eduardo!
 
-🎓 Estudante de Engenharia de Software - 3º semestre  
+🎓 Estudante de Engenharia de Software - 6º semestre  
 💼 Analista de Infraestrutura de Redes  
 🚀 Em transição para a área de DevOps  
 🔐 Interesse também em Segurança da Informação  
